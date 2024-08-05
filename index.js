@@ -1,4 +1,4 @@
-let fruta = "pera"
+let fruta = "lar"
 
 switch (fruta){
     case "laranja":
